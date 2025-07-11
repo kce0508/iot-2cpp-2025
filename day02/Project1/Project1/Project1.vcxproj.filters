@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cons.cpp">
+    <ClCompile Include="memory.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="cons2.cpp">
+    <ClCompile Include="ref.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="deepcopy.cpp">
+    <ClCompile Include="ref2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
